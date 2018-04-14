@@ -6,7 +6,7 @@
 
 我的：C:\Python27\
 
-2.环境配置.bat中的路径修改:
+2.环境配置.bat中的路径修改，该批处理文件只修改当前命令窗体的环境变量，关闭后回复:
 
 set %path%="%path%;C:\Python27" 设置成 set %path%="%path%;Python的路径"
 
